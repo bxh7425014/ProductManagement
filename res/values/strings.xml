@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ProductManagementActivity!</string>
+    <string name="app_name">ProductManagement</string>
+    <string name="register_new_product">Register New Product</string>
+    <string name="new_product">New Product</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="bonus_point_ratio">Bonus Point Ratio</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="average_delivery_days">Average Delivery Days</string>
+    <string name="manufacture">Manufacture</string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="sale_start_date">Sale Start Date</string>
+    <string name="sale_end_date">Sale End Date</string>
+    <string name="minimum_order_quantity">MinOrderQuantity</string>
+    <string name="maximum_order_quantity">MaxOrderQuantity</string>
+    <string name="description">Description</string>
+    <string name="com_box_default_value">All</string>
+    <string name="large_category">Large Category</string>
+    <string name="middle_category">Middle Category</string>
+    <string name="small_category">Small Category</string>
+    <string name="separator">~</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+    <string name="search">Search</string>
+    <string name="search_result_template">Total * items are searched.</string>
+	
+    <string name="search_product">Search Product</string>
+    
+    <string name="modify_product">Modify Product</string>
+    <string name="product_numbber">Product No.</string>
+    <string name="initial_register_date">Register Date:</string>
+    <string name="final_update_date">Update Date:</string>
+    
+    <string name="invalid_format_info">Warning! Invalid input data.</string>
+    
+    <string name="lv_title_name">Name | </string>
+    <string name="lv_title_lc">Large C | </string>
+    <string name="lv_title_mc">Medium C | </string>
+    <string name="lv_title_sc">Small C | </string>
+    <string name="lv_title_manufacture">Manufacturer | </string>
+    <string name="lv_title_coo">Country of Origin</string>
+    
+</resources>
