@@ -24,6 +24,7 @@ public class CATEGORY_L {
 	}
 	public synchronized static CATEGORY_L GetInstance() {
 		if (mInst == null) {
+			// Get instance in first time. 第一次初始化并返回实例。
 			mInst = new CATEGORY_L();
 		}
 		return mInst;
